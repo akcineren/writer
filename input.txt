@@ -1,0 +1,11 @@
+1. Create an interactive 2D precision bombing simulation
+2. Use Python
+3. Use the tkinter library
+4. Simulate a lone bomber that the user pilots
+5. Allow the user to drop multiple bombs on scattered targets
+6. Implement gravity to accelerate each bomb downward
+7. Implement wind resistance to slow and deflect bomb trajectories
+8. Include vivid explosion animations when bombs hit targets
+9. Provide the complete code for the simulation
+10. Include controls for aiming and dropping bombs
+11. End the simulation after sixty seconds
